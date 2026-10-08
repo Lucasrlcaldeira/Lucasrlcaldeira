@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🐍 Construo **APIs REST com Python e FastAPI**: autenticação JWT,
+- 🐍 Aprofundando conhecimento em **APIs REST com Python e FastAPI**: autenticação JWT,
   SQLAlchemy assíncrono, migrações com Alembic e testes com Pytest.
 - 🗄️ Estudando **bancos de dados**: modelagem, PostgreSQL e como levar
   tudo para produção com Docker.
