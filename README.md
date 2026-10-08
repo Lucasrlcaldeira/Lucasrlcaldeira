@@ -35,9 +35,6 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3">
 </p>
 
 <p>
@@ -61,4 +58,4 @@
 
 ## 📊 Linguagens mais usadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrlcaldeira&layout=compact&hide_border=true&langs_count=6&hide=typescript" alt="Linguagens mais usadas">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrlcaldeira&layout=compact&hide_border=true&langs_count=6&hide=typescript,javascript,html,css" alt="Linguagens mais usadas">
