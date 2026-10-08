@@ -54,7 +54,7 @@
 | [**curriculo-builder**](https://github.com/Lucasrlcaldeira/curriculo-builder) | SaaS para criar, editar e exportar currículos, com preview em tempo real e importação de dados do GitHub | 🤖 Construído com IA |
 | [**gameipro**](https://github.com/Lucasrlcaldeira/gameipro) · [🔗 site](https://gameipro.lovable.app/) | Biblioteca de jogos integrada à Steam: horas jogadas, conquistas e estatísticas | 🤖 Construído com IA |
 | [**hardware-upgrader**](https://github.com/Lucasrlcaldeira/hardware-upgrader) | Detecta o hardware do PC e recomenda upgrades compatíveis, explicando cada escolha | 🤖 Construído com IA |
-| [**LanguageQuest**](https://github.com/Lucasrlcaldeira/LanguageQuest) | App gamificado para aprender 6 idiomas, sem sistema de perda de vidas | 🤖 Construído com IA |
+| [**leitor-qr-code**](https://github.com/Lucasrlcaldeira/leitor-qr-code) | Lê QR Codes a partir de imagens, abre os links encontrados, gera novos códigos e guarda um histórico das leituras | 🐍 Python · OpenCV · Tkinter |
 
 ## 📊 Linguagens mais usadas
 
